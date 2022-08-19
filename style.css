@@ -1,0 +1,41 @@
+.main{
+    border: black 2px solid;
+    width: 250px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.output{
+    width: 243px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    width: 56px;
+    color: white;
+    background-color: rgb(46, 41, 41);
+}
+
+.same{
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+    width: 56px;
+    color: white;
+    background-color: rgb(102, 97, 97);
+}
+
+#orange{
+    color: orange;
+}
+
+#equal{
+    color: white;
+    background-color: orange;
+}
+
